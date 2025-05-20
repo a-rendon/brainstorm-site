@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/brainstorm-site/static/css/main.1b4105a0.css",
-    "main.js": "/brainstorm-site/static/js/main.f430114c.js",
-    "static/media/test poster.jpg": "/brainstorm-site/static/media/test poster.9aaca1099f91683b60d6.jpg",
+    "main.css": "/brainstorm-site/static/css/main.84116d12.css",
+    "main.js": "/brainstorm-site/static/js/main.4fb3afff.js",
+    "static/media/Demo1_2.mp4": "/brainstorm-site/static/media/Demo1_2.ec1feabd356ffa2355c8.mp4",
+    "static/media/happy.jpg": "/brainstorm-site/static/media/happy.41fea5f4d2e0fd4e6401.jpg",
+    "static/media/brainstorm logo.png": "/brainstorm-site/static/media/brainstorm logo.d52045493ccb6b8af135.png",
     "index.html": "/brainstorm-site/index.html",
-    "main.1b4105a0.css.map": "/brainstorm-site/static/css/main.1b4105a0.css.map",
-    "main.f430114c.js.map": "/brainstorm-site/static/js/main.f430114c.js.map"
+    "main.84116d12.css.map": "/brainstorm-site/static/css/main.84116d12.css.map",
+    "main.4fb3afff.js.map": "/brainstorm-site/static/js/main.4fb3afff.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b4105a0.css",
-    "static/js/main.f430114c.js"
+    "static/css/main.84116d12.css",
+    "static/js/main.4fb3afff.js"
   ]
 }
