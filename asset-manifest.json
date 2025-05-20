@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/brainstorm-site/static/css/main.1b4105a0.css",
+    "main.js": "/brainstorm-site/static/js/main.f430114c.js",
+    "static/media/test poster.jpg": "/brainstorm-site/static/media/test poster.9aaca1099f91683b60d6.jpg",
+    "index.html": "/brainstorm-site/index.html",
+    "main.1b4105a0.css.map": "/brainstorm-site/static/css/main.1b4105a0.css.map",
+    "main.f430114c.js.map": "/brainstorm-site/static/js/main.f430114c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b4105a0.css",
+    "static/js/main.f430114c.js"
+  ]
+}
