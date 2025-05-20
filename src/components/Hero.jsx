@@ -1,4 +1,5 @@
 import React from 'react';
+import happyImage from '../styles/happy.jpg';
 
 const Hero = () => {
   return (
@@ -11,10 +12,11 @@ const Hero = () => {
             <a href="#services" className="cta-button">Explore Our Work</a>
           </div>
           <div className="hero-image">
-            <div className="hero-image-placeholder">
-              [Brain Health Illustration]
-            </div>
-          </div>
+  <div className="hero-image-cover">
+    <img src={happyImage} alt="Smiling person representing brain health" className="hero-img" />
+  </div>
+</div>
+
         </div>
       </div>
     </section>
